@@ -1,3 +1,3 @@
-# Virtual Horse Scraper
+# Horse Scraper
 
-Scrapes virtual horse data from Opensea and Know my Horses using beautiful soup.
+Automated tooling for collecting horse racing data.
